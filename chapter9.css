@@ -13,7 +13,7 @@ header {
 
 main {
   width: 960px; /* 横幅960px */
-  margin: 50 auto; /* 上下に50px、左右にautoの外側余白 */
+  margin: 50px auto; /* 上下に50px、左右にautoの外側余白 */
   display: flex; /* Flexboxの利用 */
 }
 
